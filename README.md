@@ -14,8 +14,8 @@ If you are developing a production application, we recommend using TypeScript an
 
 # HOW TO RUN
 
-1. Open the course 7 assignment 2 folder in vs code
-2. Go to My To-Do by typing on terminal: cd .\ShoppyGlobe\
+1. Open the course 7 project folder in vs code
+2. Go to ShoppyGlobe by typing on terminal: cd .\ShoppyGlobe\
 3. Install the node_modules folder by typing on terminal: npm install
 4. Run the project by typing on terminal: npm run dev
 5. Click on the server link provided, it will open the project
